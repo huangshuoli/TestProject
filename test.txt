@@ -1,3 +1,10 @@
 11111
 branch1 master+branch2
 branch1
+11111
+branch1
+int abc()
+{
+run a;
+run b;
+return c;
