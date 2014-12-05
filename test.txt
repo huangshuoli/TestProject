@@ -1,2 +1,7 @@
 11111
 branch1
+int abc()
+{
+run a;
+run b;
+return c;
